@@ -1,7 +1,7 @@
 # Peace Corps Vault
 
 <p align="center">
-  <img height="300" alt="Peace Corps Vault Logo" src="peace-corps-vault-logo.png">
+  <img alt="Peace Corps Vault Logo" src="peace-corps-vault-logo.png">
 </p>
 
 The Peace Corps Vault is a collection of data, media, and documents of publicly-available materials related to the Peace Corps, in one location.
