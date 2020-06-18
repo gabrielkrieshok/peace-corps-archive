@@ -9,13 +9,13 @@ The Peace Corps Vault is a collection of data, media, and documents of publicly-
 Currently, this repository contains —
 
 — Datasets (unofficial)
-	- Peace Corps Acronynms
-	- Applications by Year
-	- Languages Taught
-	- Volunteers by Posting
-	- Volunteer Sector Activities Framework
-	- Volunteer Onboarding by Year
-	- Volunteering Onboarding Demographics)
+  - Peace Corps Acronynms
+  - Applications by Year
+  - Languages Taught
+  - Volunteers by Posting
+  - Volunteer Sector Activities Framework
+  - Volunteer Onboarding by Year
+  - Volunteering Onboarding Demographics)
 - Official Annual Reports and Congressional Budget Justifications — 56
 - Official Peace Corps Public Report — 10
 - Official Peace Corps Training Manuals — 284
