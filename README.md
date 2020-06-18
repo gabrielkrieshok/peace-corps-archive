@@ -8,7 +8,7 @@ The Peace Corps Vault is a collection of data, media, and documents of publicly-
 
 Currently, this repository contains —
 
-— Datasets (unofficial)
+- Datasets (unofficial)
   - Peace Corps Acronynms
   - Applications by Year
   - Languages Taught
