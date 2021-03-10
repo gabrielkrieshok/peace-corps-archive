@@ -1,10 +1,10 @@
-# Peace Corps Vault
+# Peace Corps Archive
 
 <p align="center">
-  <img alt="Peace Corps Vault Logo" src="peace-corps-vault-logo.png">
+  <img alt="Peace Corps Archive Logo" src="peace-corps-archive-logo.png">
 </p>
 
-The Peace Corps Vault is a collection of data, media, and documents of publicly-available materials related to the Peace Corps, in one location.
+The Peace Corps Archive is a collection of data, media, and documents of publicly-available materials related to the Peace Corps, in one location.
 
 Currently, this repository contains —
 
